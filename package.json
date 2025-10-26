@@ -1,8 +1,10 @@
 {
   "name": "@omprakashkumar/product-zoom",
+   "version": "1.0.0",
   "homepage": "https://github.com/omprakash8788/product-zoom/blob/main/README.md",
   "description": "A lightweight product image zoom with lens, Amazon-style",
   "main": "dist/index.js",
+  
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
