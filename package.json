@@ -1,6 +1,7 @@
 {
   "name": "@omprkash/product-zoom",
   "version": "1.0.0",
+  "homepage": "https://github.com/omprakash8788/product-zoom/blob/main/README.md",
   "description": "A lightweight product image zoom with lens, Amazon-style",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -23,7 +24,10 @@
     "amazon",
     "magnify"
   ],
-  "author": "Your Name",
+  "author": {
+    "name": "omprakash kumar",
+    "email": "omprakashkumar552@gmail.com"
+  },
   "license": "MIT",
   "devDependencies": {
     "@types/react": "^19.2.2",
