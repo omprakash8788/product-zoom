@@ -20,14 +20,14 @@ Simply wrap your `<img>` inside `<Zoom>` component — no extra setup needed.
 ## Installation
 
 ```bash
-npm install @omprakash/product-zoom
+npm i @omprakashkumar/product-zoom
 # or
-yarn add @omprakash/product-zoom
+yarn add @omprakashkumar/product-zoom
 
 
 ### Usage 
  \`\`\`ts
-import Zoom from "@omprakash/product-zoom";
+import {Zoom} from "@omprakashkumar/product-zoom"
 import productImg from "./product.jpg";
 
 export default function App() {
