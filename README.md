@@ -5,7 +5,7 @@ Simply wrap your `<img>` inside `<Zoom>` component — no extra setup needed.
 
 ---
 
-## 🚀 Features
+## Features
 
 ✅ Hover to Zoom  
 ✅ Amazon-style Lens  
@@ -17,7 +17,7 @@ Simply wrap your `<img>` inside `<Zoom>` component — no extra setup needed.
 
 ---
 
-## 🛠 Installation
+## Installation
 
 ```bash
 npm install @omprakash/product-zoom
