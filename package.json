@@ -4,6 +4,14 @@
   "description": "A lightweight product image zoom with lens, Amazon-style",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/omprakash8788/product-zoom"
+  },
+  "bugs": {
+    "url": "https://github.com/omprakash8788/product-zoom/issues",
+    "email": "omprakashkumar552@gmail.com"
+  },
   "scripts": {
     "build": "tsc"
   },
