@@ -36,5 +36,6 @@ export default function App() {
       <img src={productImg} alt="Product" width={300} />
     </Zoom>
   );
+  
 }
  \`\`\`
